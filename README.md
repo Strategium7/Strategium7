@@ -4,7 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA, Crypto enjoyer
 ------------------
 
-I am a dedicated QA Engineer with a diverse background, having lived in China for over 8 years and gained valuable experience in sales before transitioning to IT. Now fully immersed in a career I am passionate about, I am continually honing my skills in software testing while expanding my expertise in JavaScript and related programming technologies. I have a strong interest in cryptocurrency and Web3, staying informed about their advancements and exploring their potential. With a commitment to growth and excellence, I strive to deliver quality-driven solutions and adapt to the ever-evolving tech landscape. My proactive approach to learning and problem-solving ensures I stay ahead in the dynamic world of IT.
+I am a QA Engineer with a strong background in software testing and over 8 years of international experience, including living in China and a professional transition from sales to IT. Passionate about testing and programming, I continuously enhance my skills in JavaScript and stay up-to-date with advancements in cryptocurrency and Web3. 
+Key skills: 
+- Test design
+- Testing pyramid
+- Test documentation
+- Deep understanding of software development processes and SDLC 
+- Proficient in: DevTools, Postman, Jira
+- Networking fundamentals: TCP/IP, HTTP
+- SQL and basic JavaScript expertise 
+With a commitment to quality and problem-solving, I bring a proactive approach to delivering reliable and efficient solutions.
 
 * 🌍  I'm based in KZ
 * ✉️  You can contact me at [trade.reform@gmail.com](mailto:trade.reform@gmail.com )
