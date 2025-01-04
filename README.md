@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software QA Engineer<br>
 
 SUMMARY:<br>
+<br>
 • Manual testing.<br>
 • Writing and understanding test documentation: Test-plans, Test cases, Test suites, Checklists, Bug-reports.<br>
 • Understanding API principles (REST, Swagger), API testing with Postman.<br>
@@ -15,6 +16,7 @@ SUMMARY:<br>
 • Language proficiency: English, Chinese, Russian.<br>
 
 SKILLS:<br>
+<br>
 • Platform: Windows<br>
 • API: Postman<br>
 • Browser: DevTools<br>
@@ -25,6 +27,7 @@ SKILLS:<br>
 • Other: Git<br>
 
 INFO:<br>
+<br>
 Phone: +7 (778) 596 15 36<br>
 Telegram: @kaiserwww (slightly chubby wizard cat avatar)<br>
 Email: trade.reform@gmail.com<br>
