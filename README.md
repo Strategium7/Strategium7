@@ -1,19 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stanislav Yermoshkin
 ============================================================================================================================================
 
-QA, Crypto enjoyer
-------------------
+Software QA Engineer
+--------------------
 
-I am a QA Engineer with a strong background in software testing and over 8 years of international experience, including living in China and a professional transition from sales to IT. Passionate about testing and programming, I continuously enhance my skills in JavaScript and stay up-to-date with advancements in cryptocurrency and Web3. 
-Key skills: 
-- Test design
-- Testing pyramid
-- Test documentation
-- Deep understanding of software development processes and SDLC 
-- Proficient in: DevTools, Postman, Jira
-- Networking fundamentals: TCP/IP, HTTP
-- SQL and basic JavaScript expertise 
-With a commitment to quality and problem-solving, I bring a proactive approach to delivering reliable and efficient solutions.
+Manual QA Junior Engineer SUMMARY: • Manual testing. • Writing and understanding test documentation: Test-plans, Test cases, Test suites, Checklists, Bug-reports. • Understanding API principles (REST, Swagger), API testing with Postman. • Knowledge of client-server architecture, CI/CD, and software development lifecycle (SDLC). • Ability to work with SQL: creating queries to verify database data. • Familiarity with Agile and Scrum. • WEB3 and crypto enjoyer. • Basic programming knowledge of JavaScript. • Language proficiency: English, Chinese, Russian. SKILLS: • Platform: Windows • API: Postman • Browser: DevTools • Sniffer: Charles • Visual: Figma • Bug tracking system: Jira • Languages: SQL, JavaScript (basic) • Other: Git INFO: Phone: +7 (778) 596 15 36 Telegram: @kaiserwww (slightly chubby wizard cat avatar) Email: trade.reform@gmail.com GitHub Project 1: https://github.com/Strategium7/qa-engineer-project-84 GitHub Project 2: https://github.com/Strategium7/qa-engineer-project-85
 
 * 🌍  I'm based in KZ
 * ✉️  You can contact me at [trade.reform@gmail.com](mailto:trade.reform@gmail.com )
